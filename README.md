@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+1. I'm a Backend Engineer with 1 year of experience in Ruby on Rails.
+2. Recently, I've started exploring JavaScript, TypeScript, React, and Next.js to expand my skills into full-stack development.
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=naktty)
+
 <!--
 **naktty/naktty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
